@@ -1,0 +1,30 @@
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display:inline-block ;
+    margin-top: 18%;
+    margin-left: 15%;
+  }
+
+div{
+    Justify-content: center;
+    align-items: center;
+   
+}
+
+#rojo{
+    background-color: red;
+    box-shadow: 5px 8px #cfcfcf;
+}
+
+#verde{
+    background-color: green;
+    box-shadow: 5px 8px #cfcfcf;
+}
+
+#azul{
+    background-color: blue;
+    box-shadow: 5px 8px #cfcfcf;
+}
